@@ -1043,6 +1043,7 @@ body{
 .wk_topic{
     background: url(../images/bg_wk.jpg) no-repeat center center/cover;
     overflow: hidden;
+	width:100%;
 }
 .wk_header{
     padding: 10px 0;
@@ -1359,9 +1360,9 @@ body{
 	z-index:999;
 }
 .yytb ul{ margin-left:0.7rem; margin-top:1rem;}
-.yytb li{ float:left; margin-right:0.1rem; width:3.5rem; text-align:center; color:#666; border-right: 1px solid #fcfcfc; height:4.25rem; }
+.yytb li{ float:left; margin-right:0.1rem; width:4rem; text-align:center; color:#666; border-right: 1px solid #fcfcfc; height:4.25rem; }
 .yytb a{ color:#666;}
 
 .newslist{color:#666; margin-left:0.6rem; margin-bottom:1rem;}
 .newslist a{color:#666; }
-.newslist li{ line-height:1.3rem; border-bottom:1px dashed #f6f6f6; }
+.newslist li{ line-height:1.3rem; border-bottom:1px dashed #f6f6f6;}
